@@ -1,0 +1,10 @@
+﻿  Start.cpp
+c:\users\asus\documents\visual studio 2017\projects\greedysnake\greedysnake\snake.h(10): warning C4091: “typedef ”: 没有声明变量时忽略“Point”的左侧
+c:\users\asus\documents\visual studio 2017\projects\greedysnake\greedysnake\start.cpp(25): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\asus\documents\visual studio 2017\projects\greedysnake\greedysnake\start.cpp(70): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\asus\documents\visual studio 2017\projects\greedysnake\greedysnake\start.cpp(85): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  GreedySnake.vcxproj -> C:\Users\asus\documents\visual studio 2017\Projects\GreedySnake\Debug\GreedySnake.exe
+  GreedySnake.vcxproj -> C:\Users\asus\documents\visual studio 2017\Projects\GreedySnake\Debug\GreedySnake.pdb (Partial PDB)

@@ -59,4 +59,12 @@
       <Filter>资源文件</Filter>
     </Image>
   </ItemGroup>
+  <ItemGroup>
+    <Media Include="Eat.wav">
+      <Filter>资源文件</Filter>
+    </Media>
+    <Media Include="Failed.wav">
+      <Filter>资源文件</Filter>
+    </Media>
+  </ItemGroup>
 </Project>

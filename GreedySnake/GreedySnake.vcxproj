@@ -158,6 +158,10 @@
     <Image Include="Map.jpg" />
     <Image Include="Snake.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <Media Include="Eat.wav" />
+    <Media Include="Failed.wav" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
